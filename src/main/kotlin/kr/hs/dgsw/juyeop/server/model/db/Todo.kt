@@ -1,4 +1,4 @@
-package kr.hs.dgsw.juyeop.server.model
+package kr.hs.dgsw.juyeop.server.model.db
 
 import javax.persistence.*
 

@@ -1,6 +1,6 @@
 package kr.hs.dgsw.juyeop.server.controller
 
-import kr.hs.dgsw.juyeop.server.model.Todo
+import kr.hs.dgsw.juyeop.server.model.db.Todo
 import kr.hs.dgsw.juyeop.server.repository.TodoRepository
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
